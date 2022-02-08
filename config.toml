@@ -32,35 +32,12 @@ theme = "z"
   navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
   showPostSummary = false
   wrapperMaxWidth = ""
-  mainSections = ["recipes"]
-  [params.social.share]
-    facebook = true
-    linkedin = true
-    twitter = true
-    whatsapp = true
-    email = true
 
 [menu]
   [[menu.nav]]
   name = "Home"
   url = "/"
   weight = 1
-  [[menu.nav]]
-  name = "Contact"
-  url = "/pages/contact"
-  weight = 2
-  [[menu.nav]]
-  name = "Copyright"
-  url = "/pages/copyright"
-  weight = 3
-  [[menu.nav]]
-  name = "DMCA"
-  url = "/pages/dmca"
-  weight = 4
-  [[menu.nav]]
-  name = "Privacy Policy"
-  url = "/pages/privacy-policy"
-  weight = 5
 
 [author]
     name = "Elena"
